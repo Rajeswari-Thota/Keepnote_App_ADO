@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keepnote_App", "Keepnote_App.csproj", "{B7B1B6DF-1FDA-487A-9FF7-0632E9454181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B1B6DF-1FDA-487A-9FF7-0632E9454181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B1B6DF-1FDA-487A-9FF7-0632E9454181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B1B6DF-1FDA-487A-9FF7-0632E9454181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B1B6DF-1FDA-487A-9FF7-0632E9454181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C52EDC0-8629-4204-9AC7-689EB4D5F45B}
+	EndGlobalSection
+EndGlobal
